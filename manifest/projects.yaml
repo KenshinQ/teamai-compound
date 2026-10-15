@@ -1,6 +1,6 @@
 version: 1
 projects:
-  - id: gold-rush-map-editor
+  - id: goldrush-map-editor
     name: gold rush map editor
     description: gold rush map editor project namespace
     resources:
