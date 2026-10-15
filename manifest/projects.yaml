@@ -1,0 +1,11 @@
+version: 1
+projects:
+  - id: test
+    name: test
+    description: Test project namespace
+    resources:
+      knowledge: []
+      skills:
+        - anthropics
+      learnings: []
+      agents: []
