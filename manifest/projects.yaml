@@ -1,8 +1,8 @@
 version: 1
 projects:
-  - id: test
-    name: test
-    description: Test project namespace
+  - id: gold-rush-map-editor
+    name: gold rush map editor
+    description: gold rush map editor project namespace
     resources:
       knowledge: []
       skills:
